@@ -7,7 +7,7 @@ class App extends Component {
   state = {
     pizzas: [],
     pizza: {},
-    topping: ''
+    // topping: ''
   }
 
   componentDidMount(){
@@ -23,9 +23,9 @@ class App extends Component {
   }
 
   pizzaChangeHandler = (e, pizza) => {
-    this.setState({
-      topping: e.target.value
-    })
+    // this.setState({
+    //   topping: e.target.value
+    // })
     if (e.target.name === "topping"){
       pizza.topping = e.target.value
     } else if (e.target.name === "size"){

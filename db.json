@@ -8,13 +8,13 @@
     },
     {
       "id": 2,
-      "topping": "Pepperoni",
+      "topping": "Pepperoni baby",
       "size": "Medium",
       "vegetarian": true
     },
     {
       "id": 3,
-      "topping": "Mushroom",
+      "topping": "Mushroom baby",
       "size": "Medium",
       "vegetarian": true
     },
@@ -38,7 +38,7 @@
     },
     {
       "id": 7,
-      "topping": "Black Olive",
+      "topping": "Black ",
       "size": "Large",
       "vegetarian": false
     },
